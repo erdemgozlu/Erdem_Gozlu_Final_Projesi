@@ -1,0 +1,79 @@
+﻿<Window x:Class="_20703802_ErdemGozlu_BST206.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_20703802_ErdemGozlu_BST206"
+        mc:Ignorable="d"
+        Title="ARAC LISTESI" Height="450" Width="756" Background="Yellow">
+
+    <Grid Background="#2b210e">
+
+        <Label Name="Label1" Content="MARKA" Width="67" Height="30" Canvas.Left="10" Canvas.Top="10" FontSize="14" FontFamily="Georgia" FontWeight="Bold" Background="Black" Foreground="Orange" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="448,32,0,0" />
+        <Label Name="Label2" Content="MODEL" Width="67" Height="30" Canvas.Left="10" Canvas.Top="10" FontSize="14" FontFamily="Georgia" FontWeight="Bold" Background="Black" Foreground="Orange" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="448,129,0,0" RenderTransformOrigin="0.451,-0.062" />
+        <Label Name="Label3" Content="FIYAT" Width="66" Height="30" Canvas.Left="10" Canvas.Top="10" FontSize="14" FontFamily="Georgia" FontWeight="Bold" Background="Black" Foreground="Orange" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="449,229,0,0" RenderTransformOrigin="-0.012,0.691" />
+        <TextBox Height="28" HorizontalAlignment="Right" Margin="0,34,40,0" Name="textBox1" VerticalAlignment="Top" Width="150" />
+        <TextBox Height="28" HorizontalAlignment="Right" Margin="0,130,40,0" Name="textBox2" VerticalAlignment="Top" Width="150" />
+
+        <Button Height="55" Margin="442,355,0,0" x:Name="button1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120" Click="AddButton_Click" Content="Ekle" FontFamily="Segoe UI" FontSize="15" FontWeight="Normal" Foreground="#FFFFECEC" RenderTransformOrigin="1.212,1.26" Background="#00000000" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.409"/>
+                    <TranslateTransform X="4.514" Y="-63.535"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Fill="#ff4040" />
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Height="56" Margin="596,290,0,0" x:Name="button2" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120" Click="DeleteButton_Click" Content="Sil" FontFamily="Segoe UI" FontSize="15" FontWeight="Normal" Foreground="#FFFFECEC" RenderTransformOrigin="0.059,0.581" >
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Fill="#ff4040" />
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <TextBox Height="28" HorizontalAlignment="Right" Margin="0,0,40,159" Name="textBox3" VerticalAlignment="Bottom" Width="150" RenderTransformOrigin="0.479,-0.054" />
+        <Button Height="61" Margin="521,346,0,0" x:Name="button3" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120" Click="UpdateButton_Click" Content="Güncelle" FontFamily="Segoe UI" FontSize="15" FontWeight="Normal" Foreground="#FFFFECEC" >
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Fill="#ff4040" />
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="#FF31ACB7" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <ListView Margin="0,10,334,0" Name="lvUsers" Height="373" VerticalAlignment="Top" RenderTransformOrigin="0.504,0.509" Background="White">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="MARKA" Width="120" DisplayMemberBinding="{Binding MARKA}" />
+                    <GridViewColumn Header="MODEL" Width="150" DisplayMemberBinding="{Binding MODEL}" />
+                    <GridViewColumn Header="FIYAT" Width="150" DisplayMemberBinding="{Binding FIYAT}" />
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
+
+
+
+
+
+

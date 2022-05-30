@@ -1,0 +1,47 @@
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.csproj.AssemblyReference.cache
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.csproj.SuggestedBindingRedirects.cache
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\MainWindow.g.cs
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\App.g.cs
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206_MarkupCompile.cache
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\bin\Debug\20703802_ErdemGozlu_BST206.exe.config
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\bin\Debug\20703802_ErdemGozlu_BST206.exe
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\bin\Debug\20703802_ErdemGozlu_BST206.pdb
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206_MarkupCompile.lref
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\MainWindow.baml
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.g.resources
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\_20703802_ErdemGozlu_BST206.Properties.Resources.resources
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.csproj.GenerateResource.cache
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.csproj.CoreCompileInputs.cache
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.exe
+D:\Projeler\Visual Studio Projeleri\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.pdb
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\bin\Debug\20703802_ErdemGozlu_BST206.exe.config
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\bin\Debug\20703802_ErdemGozlu_BST206.exe
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\bin\Debug\20703802_ErdemGozlu_BST206.pdb
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.csproj.AssemblyReference.cache
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\MainWindow.g.cs
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\App.g.cs
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206_MarkupCompile.cache
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206_MarkupCompile.lref
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\MainWindow.baml
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.g.resources
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\_20703802_ErdemGozlu_BST206.Properties.Resources.resources
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.csproj.GenerateResource.cache
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.csproj.CoreCompileInputs.cache
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.exe
+C:\Users\WORKDAY\Downloads\erdemgozlu-main\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.pdb
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\bin\Debug\20703802_ErdemGozlu_BST206.exe.config
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\bin\Debug\20703802_ErdemGozlu_BST206.exe
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\bin\Debug\20703802_ErdemGozlu_BST206.pdb
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206_MarkupCompile.cache
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206_MarkupCompile.lref
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.g.resources
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\_20703802_ErdemGozlu_BST206.Properties.Resources.resources
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.exe
+C:\Users\HP\Desktop\Yeni klasör\erdemgozlu-main\20703802_ErdemGozlu_BST206\obj\Debug\20703802_ErdemGozlu_BST206.pdb
